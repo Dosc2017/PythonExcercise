@@ -1,2 +1,2 @@
-# TBD-
-my own repository 
+# A repository for Python excercise
+My own repository, nothing interesting here.

@@ -29,7 +29,7 @@ def fib2(n):
     return res
 
 
-"""
+
 runtime of fibonocci  with/without memo
 
 
@@ -43,5 +43,6 @@ print(fib2(30))
 time2 = time.clock()
 print('time with dict:', time2 - time1)
 
-"""
 
+
+print("we")

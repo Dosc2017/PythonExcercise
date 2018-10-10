@@ -45,6 +45,3 @@ print('time with dict:', time2 - time1)
 
 """
 
-a = ('a',)
-b = ('b')
-print(type(a), '\n', type(b))

@@ -44,5 +44,3 @@ time2 = time.clock()
 print('time with dict:', time2 - time1)
 
 
-
-print("we")

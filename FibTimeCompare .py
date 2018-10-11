@@ -31,7 +31,9 @@ def fib2(n):
 
 """
 runtime of fibonocci  with/without memo
+
 """
+
 
 time_start = time.clock()
 

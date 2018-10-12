@@ -1,5 +1,7 @@
-import time, math
+import time
+import math
 from collections import Counter
+
 
 def odd1(n):
     """odd or not using &
@@ -17,3 +19,6 @@ def odd2(n):
     return "奇数"
 
 
+a = 123
+b = str(a)[::-1]
+print(b)

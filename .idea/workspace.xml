@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b804e339-42f0-43c4-9814-9fc24ad83645" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LC35:Search insert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode17_letterPhone.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode17_letterPhone.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Newsol1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Newsol1.py" afterDir="false" />
-    </list>
+    <list default="true" id="b804e339-42f0-43c4-9814-9fc24ad83645" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,25 +28,22 @@
       <file leaf-file-name="Newsol1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Newsol1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="15">
+              <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC35:Search insert.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LC35:Search insert.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LC35:Search insert.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="210">
+              <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1and-1stposition.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="1and-1stposition.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1and-1stposition.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -207,9 +199,6 @@
     <entry file="file://$PROJECT_DIR$/LeetCode458_PoorPigs.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/1and-1stposition.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -222,20 +211,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Newsol1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LC35:Search insert.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        <state relative-caret-position="210">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1and-1stposition.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

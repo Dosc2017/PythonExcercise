@@ -14,10 +14,6 @@ class Solution(object):
             '8': ['t', 'u', 'v'],
             '9': ['w', 'x', 'y', 'z']
         }
-        res = []
-
-        for i in digits:
-
 
 
 b = '23'

@@ -29,4 +29,6 @@ lookup = {
             '8':['t','u','v'],
             '9':['w','x','y','z']
 }
-print(lookup['2'][0])
+# print(lookup['2'][0])
+
+print(type(bin(1024)))

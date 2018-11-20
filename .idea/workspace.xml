@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b804e339-42f0-43c4-9814-9fc24ad83645" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/LC34 1st&amp;lastPos.py" beforeDir="false" afterPath="$PROJECT_DIR$/LC34 1st&amp;lastPos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LC36Count&amp;Say.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,11 +41,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC34 1st&amp;lastPos.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LC34 1st&amp;lastPos.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LC34 1st&amp;lastPos.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
               <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC36Count&amp;Say.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LC36Count&amp;Say.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="91" selection-start-line="10" selection-start-column="91" selection-end-line="10" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="itertools.py" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1511870971/itertools.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="67" column="10" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -68,6 +87,7 @@
         <option value="$PROJECT_DIR$/Newsol1.py" />
         <option value="$PROJECT_DIR$/LC35:Search insert.py" />
         <option value="$PROJECT_DIR$/LC34 1st&amp;lastPos.py" />
+        <option value="$PROJECT_DIR$/LC36Count&amp;Say.py" />
       </list>
     </option>
   </component>
@@ -110,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LC34 1st&amp;lastPos">
+  <component name="RunManager" selected="Python.LC36Count&amp;Say">
     <configuration name="LC34 1st&amp;lastPos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExcercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,6 +167,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="LC36Count&amp;Say" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonExcercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LC36Count&amp;Say.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Newsol1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExcercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,9 +207,11 @@
       <item itemvalue="Python.Newsol1" />
       <item itemvalue="Python.LC35:Search insert" />
       <item itemvalue="Python.LC34 1st&amp;lastPos" />
+      <item itemvalue="Python.LC36Count&amp;Say" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LC36Count&amp;Say" />
         <item itemvalue="Python.LC34 1st&amp;lastPos" />
         <item itemvalue="Python.Newsol1" />
         <item itemvalue="Python.LC35:Search insert" />
@@ -261,6 +301,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC36Count&amp;Say.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="91" selection-start-line="10" selection-start-column="91" selection-end-line="10" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1511870971/itertools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="67" column="10" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
         </state>
       </provider>
     </entry>

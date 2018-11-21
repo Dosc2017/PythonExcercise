@@ -31,4 +31,13 @@ lookup = {
 }
 # print(lookup['2'][0])
 
-print(type(bin(1024)))
+
+def useless(n):
+    for i in range(n):
+        if i > 3:
+            return
+        print(i)
+
+
+print([1] + [2])
+

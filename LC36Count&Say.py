@@ -16,3 +16,5 @@ import itertools
 S1 = Solution()
 print(S1.countAndSay(2))
 
+
+

@@ -5,6 +5,7 @@ class Solution(object):
         :param nums: List[int]
         :param target: int
         :return: List[List[int]]
+        may be wrong version
         """
 
         res = []
@@ -12,7 +13,7 @@ class Solution(object):
         def seeking(sums, index, comb):
             if sums > target:
                 return
-            if sums == target:
+            if sums == target and comb not in res:
                 res.append(comb)
             if index > len(nums) - 1:
                 return
@@ -39,6 +40,7 @@ class Solution(object):
                 return
             if idx >= len(candidates):
                 return
+            print("remain:", remain, "cobmbi:", combi, "index:", idx, "Result:", res)
             helper(remain, combi, idx + 1)
             helper(remain - candidates[idx], combi + [candidates[idx]], idx)
 

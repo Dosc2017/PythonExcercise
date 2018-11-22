@@ -41,3 +41,16 @@ def useless(n):
 
 print([1] + [2])
 
+
+def Root(n):
+    """
+
+    :param n: int
+    :return: int
+
+    exapmle: func(12345) = 1 + 2 + 3 + 4 + 5 = 1 + 5 = 6
+    """
+    return (n-1) % 9 + 1
+
+
+print(Root(12345))

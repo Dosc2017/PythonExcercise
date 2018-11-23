@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b804e339-42f0-43c4-9814-9fc24ad83645" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LC40CombinationSum2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LC39CombinationSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/LC39CombinationSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Newsol1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Newsol1.py" afterDir="false" />
-    </list>
+    <list default="true" id="b804e339-42f0-43c4-9814-9fc24ad83645" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,20 +59,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC39CombinationSum.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LC39CombinationSum.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LC39CombinationSum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="52" column="17" lean-forward="true" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+            <state relative-caret-position="390">
+              <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC40CombinationSum2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LC40CombinationSum2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LC40CombinationSum2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="46" />
+            <state relative-caret-position="120">
+              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -396,17 +391,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LC39CombinationSum.py">
+    <entry file="file://$PROJECT_DIR$/LC40CombinationSum2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="52" column="17" lean-forward="true" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+        <state relative-caret-position="120">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LC40CombinationSum2.py">
+    <entry file="file://$PROJECT_DIR$/LC39CombinationSum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="46" />
+        <state relative-caret-position="390">
+          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
         </state>
       </provider>
     </entry>

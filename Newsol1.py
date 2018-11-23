@@ -1,6 +1,10 @@
 import time
 import math
 from collections import Counter
+import pandas as pd
+import xlrd
+import numpy as np
+import glob
 
 
 def odd1(n):
@@ -39,7 +43,7 @@ def useless(n):
         print(i)
 
 
-print([1] + [2])
+
 
 
 def Root(n):
@@ -53,4 +57,14 @@ def Root(n):
     return (n-1) % 9 + 1
 
 
-print(Root(12345))
+def readwork(filepath, n):
+   data = pd.read_excel(filepath, n)
+   return data
+
+
+filepath = 'test.xlsx'
+data = []
+for i in range(2):
+    data += [[(pd.DataFrame(readwork(filepath, i)))]]
+
+print(data[1], len(data[1]))

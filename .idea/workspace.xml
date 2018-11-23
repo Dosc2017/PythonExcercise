@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b804e339-42f0-43c4-9814-9fc24ad83645" name="Default" comment="" />
+    <list default="true" id="b804e339-42f0-43c4-9814-9fc24ad83645" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/LC411stMissingPos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newsol1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Newsol1.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +19,8 @@
       <file leaf-file-name="Newsol1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Newsol1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="315">
+              <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -23,29 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC35:Search insert.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LC35:Search insert.py">
+      <file leaf-file-name="LC411stMissingPos.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LC411stMissingPos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LC26RemoveDup.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LC26RemoveDup.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LC34 1st&amp;lastPos.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LC34 1st&amp;lastPos.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+            <state relative-caret-position="240">
+              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -59,20 +46,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC39CombinationSum.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LC39CombinationSum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LC39CombinationSum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+            <state relative-caret-position="780">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="_commonprefix.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_commonprefix.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="LC40CombinationSum2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LC40CombinationSum2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -96,9 +93,10 @@
         <option value="$PROJECT_DIR$/LC35:Search insert.py" />
         <option value="$PROJECT_DIR$/LC34 1st&amp;lastPos.py" />
         <option value="$PROJECT_DIR$/LC36Count&amp;Say.py" />
-        <option value="$PROJECT_DIR$/Newsol1.py" />
         <option value="$PROJECT_DIR$/LC40CombinationSum2.py" />
         <option value="$PROJECT_DIR$/LC39CombinationSum.py" />
+        <option value="$PROJECT_DIR$/Newsol1.py" />
+        <option value="$PROJECT_DIR$/LC411stMissingPos.py" />
       </list>
     </option>
   </component>
@@ -141,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LC39CombinationSum">
+  <component name="RunManager" selected="Python.LC411stMissingPos">
     <configuration name="LC34 1st&amp;lastPos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExcercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,24 +153,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LC34 1st&amp;lastPos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="LC35:Search insert" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonExcercise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LC35:Search insert.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,6 +194,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="LC411stMissingPos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonExcercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LC411stMissingPos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Newsol1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExcercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,18 +232,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.Newsol1" />
-      <item itemvalue="Python.LC35:Search insert" />
       <item itemvalue="Python.LC34 1st&amp;lastPos" />
       <item itemvalue="Python.LC36Count&amp;Say" />
       <item itemvalue="Python.LC39CombinationSum" />
+      <item itemvalue="Python.LC411stMissingPos" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.LC39CombinationSum" />
+        <item itemvalue="Python.LC411stMissingPos" />
         <item itemvalue="Python.Newsol1" />
+        <item itemvalue="Python.LC39CombinationSum" />
         <item itemvalue="Python.LC36Count&amp;Say" />
         <item itemvalue="Python.LC34 1st&amp;lastPos" />
-        <item itemvalue="Python.LC35:Search insert" />
       </list>
     </recent_temporary>
   </component>
@@ -268,8 +266,8 @@
     <layout>
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.43582886" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50078124" side_tool="true" weight="0.43582886" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49921876" visible="true" weight="0.43582886" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Python Console" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
@@ -374,16 +372,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Newsol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LC36Count&amp;Say.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -394,14 +382,57 @@
     <entry file="file://$PROJECT_DIR$/LC40CombinationSum2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_commonprefix.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/LC39CombinationSum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        <state relative-caret-position="780">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/glob.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/test/venv/lib/python3.6/site-packages/pandas/io/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="212" column="4" selection-start-line="212" selection-start-column="4" selection-end-line="212" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1511870971/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="2359" column="28" lean-forward="true" selection-start-line="2359" selection-start-column="28" selection-end-line="2359" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Newsol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC411stMissingPos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
         </state>
       </provider>
     </entry>

@@ -43,9 +43,6 @@ def useless(n):
         print(i)
 
 
-
-
-
 def Root(n):
     """
 
@@ -62,9 +59,22 @@ def readwork(filepath, n):
    return data
 
 
-filepath = 'test.xlsx'
-data = []
-for i in range(2):
-    data += [[(pd.DataFrame(readwork(filepath, i)))]]
 
-print(data[1], len(data[1]))
+
+
+
+
+
+
+
+
+
+import openpyxl as op
+
+
+data = op.load_workbook('20181112-2018-11-12_history-现状输出.xlsx', data_only=True)
+target_sheet = data.get_sheet_by_name('取整算法')
+b4 = target_sheet['AZ55']
+print(f'({b4.column}, {b4.row}) is {b4.value}')
+
+

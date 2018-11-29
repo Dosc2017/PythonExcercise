@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b804e339-42f0-43c4-9814-9fc24ad83645" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LC411stMissingPos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritanceAndattribute.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LC40CombinationSum2.py" beforeDir="false" afterPath="$PROJECT_DIR$/LC40CombinationSum2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Newsol1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Newsol1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +19,8 @@
       <file leaf-file-name="Newsol1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Newsol1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+            <state relative-caret-position="380">
+              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -28,11 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC411stMissingPos.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="inheritanceAndattribute.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/inheritanceAndattribute.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC411stMissingPos.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LC411stMissingPos.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -49,8 +58,8 @@
       <file leaf-file-name="LC39CombinationSum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LC39CombinationSum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="240">
+              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -68,8 +77,8 @@
       <file leaf-file-name="LC40CombinationSum2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LC40CombinationSum2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            <state relative-caret-position="480">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -93,10 +102,11 @@
         <option value="$PROJECT_DIR$/LC35:Search insert.py" />
         <option value="$PROJECT_DIR$/LC34 1st&amp;lastPos.py" />
         <option value="$PROJECT_DIR$/LC36Count&amp;Say.py" />
-        <option value="$PROJECT_DIR$/LC40CombinationSum2.py" />
         <option value="$PROJECT_DIR$/LC39CombinationSum.py" />
-        <option value="$PROJECT_DIR$/Newsol1.py" />
+        <option value="$PROJECT_DIR$/LC40CombinationSum2.py" />
         <option value="$PROJECT_DIR$/LC411stMissingPos.py" />
+        <option value="$PROJECT_DIR$/Newsol1.py" />
+        <option value="$PROJECT_DIR$/inheritanceAndattribute.py" />
       </list>
     </option>
   </component>
@@ -125,7 +135,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,25 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LC411stMissingPos">
-    <configuration name="LC34 1st&amp;lastPos" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonExcercise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LC34 1st&amp;lastPos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.inheritanceAndattribute">
     <configuration name="LC36Count&amp;Say" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExcercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,20 +222,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="inheritanceAndattribute" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonExcercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inheritanceAndattribute.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.Newsol1" />
-      <item itemvalue="Python.LC34 1st&amp;lastPos" />
       <item itemvalue="Python.LC36Count&amp;Say" />
       <item itemvalue="Python.LC39CombinationSum" />
       <item itemvalue="Python.LC411stMissingPos" />
+      <item itemvalue="Python.inheritanceAndattribute" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.LC411stMissingPos" />
+        <item itemvalue="Python.inheritanceAndattribute" />
         <item itemvalue="Python.Newsol1" />
+        <item itemvalue="Python.LC411stMissingPos" />
         <item itemvalue="Python.LC39CombinationSum" />
         <item itemvalue="Python.LC36Count&amp;Say" />
-        <item itemvalue="Python.LC34 1st&amp;lastPos" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +278,7 @@
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50078124" side_tool="true" weight="0.43582886" />
       <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49921876" visible="true" weight="0.43582886" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.328877" />
       <window_info anchor="bottom" id="Python Console" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -282,6 +292,32 @@
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="5" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -379,25 +415,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LC40CombinationSum2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_commonprefix.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LC39CombinationSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$USER_HOME$/PycharmProjects/untitled/test.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -419,20 +441,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Newsol1.py">
+    <entry file="file://$USER_HOME$/PycharmProjects/test/venv/lib/python3.6/site-packages/openpyxl/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/test/venv/lib/python3.6/site-packages/openpyxl/reader/excel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="89">
+          <caret line="144" column="52" selection-start-line="144" selection-start-column="47" selection-end-line="144" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC39CombinationSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC40CombinationSum2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LC411stMissingPos.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Newsol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inheritanceAndattribute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
         </state>
       </provider>
     </entry>

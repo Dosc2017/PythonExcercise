@@ -1,12 +1,13 @@
 class Solution(object):
+    """
     def CombinationSum(self, nums, target):
-        """
+
         my version
         :param nums: List[int]
         :param target: int
         :return: List[List[int]]
         may be wrong version
-        """
+
 
         res = []
 
@@ -23,6 +24,7 @@ class Solution(object):
 
         seeking(0, 0, [])
         return res
+         """
 
     def combinationSum1(self, candidates, target):
         """

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b804e339-42f0-43c4-9814-9fc24ad83645" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonExcercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonExcercise.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FluentPython.py" beforeDir="false" afterPath="$PROJECT_DIR$/FluentPython.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FluentPython.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FluentPython.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FluentPython.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="345">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -62,7 +62,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="temptest.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="temptest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/temptest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -123,8 +123,8 @@
         <option value="$PROJECT_DIR$/inheritanceAndattribute.py" />
         <option value="$PROJECT_DIR$/LC42TrapWater.py" />
         <option value="$PROJECT_DIR$/LC39CombinationSum.py" />
-        <option value="$PROJECT_DIR$/FluentPython.py" />
         <option value="$PROJECT_DIR$/temptest.py" />
+        <option value="$PROJECT_DIR$/FluentPython.py" />
       </list>
     </option>
   </component>
@@ -167,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.temptest">
+  <component name="RunManager" selected="Python.FluentPython">
     <configuration name="FluentPython" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExcercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -267,8 +267,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.temptest" />
         <item itemvalue="Python.FluentPython" />
+        <item itemvalue="Python.temptest" />
         <item itemvalue="Python.LC42TrapWater" />
         <item itemvalue="Python.inheritanceAndattribute" />
         <item itemvalue="Python.Newsol1" />
@@ -300,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543820381030</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="class attribute and inheritance">
+      <created>1543921224397</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543921224397</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -599,16 +606,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FluentPython.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1511870971/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -627,6 +624,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FluentPython.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

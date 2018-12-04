@@ -30,7 +30,10 @@ def spades_high(card):
 a = "a！"
 b = "a！"
 
-print(a is b)
 
 # print('a' * 20 is 'aaaaaaaaaaaaaaaaaaaa', 'a' * 21 is 'aaaaaaaaaaaaaaaaaaaaa')
 
+
+*unknown, a, b = range(10)
+
+print(unknown)

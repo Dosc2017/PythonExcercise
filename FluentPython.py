@@ -37,3 +37,4 @@ b = "a！"
 *unknown, a, b = range(10)
 
 print(unknown)
+print('{:15}'|'1')

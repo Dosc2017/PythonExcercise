@@ -33,8 +33,3 @@ b = "a！"
 
 # print('a' * 20 is 'aaaaaaaaaaaaaaaaaaaa', 'a' * 21 is 'aaaaaaaaaaaaaaaaaaaaa')
 
-
-*unknown, a, b = range(10)
-
-print(unknown)
-print('{:15}'|'1')

@@ -1,4 +1,3 @@
-
 """
 import collections
 from random import choice
@@ -269,6 +268,7 @@ avg = make_avg()
 print(i for i in range(10))
 
 """
+
 import time
 import functools
 
@@ -294,9 +294,6 @@ def fact(n):
     return fact(n - 1) + fact(n - 2)
 
 
-fact(9)
-
-
-
-
-
+t1 = [43]
+t2 = [43]
+print(t1 is t2)

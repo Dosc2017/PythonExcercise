@@ -22,6 +22,9 @@ class Vector2D:
     def y(self):
         return self.__y
 
+    def __len__(self):
+        return
+
     def __iter__(self):
         return (i for i in (self.x, self.y))
 
@@ -45,7 +48,7 @@ class Vector2D:
     def __abs__(self):
         return math.hypot(self.x, self.y)
 
-    def __angle__(self):
+    def angle(self):
         return math.atan2(self.x, self.y)
 
     def __format__(self, fmt_spec=''):
@@ -65,6 +68,18 @@ class Vector2D:
         typecode = chr(octets[0])
         memv = memoryview(octets[1:].cast(typecode))
         return cls(*memv)
+
+
+v1 = Vector2D(3, 4)
+print('print(v1)', v1, format(v1, '0.4fp'), hash(v1), set([v1]))
+x, y = v1
+print('x:', x, 'y:', y)
+
+v2 = Vector2D(3, 4)
+print(v1 == v2, v1.__dict__)
+
+
+
 
 
 

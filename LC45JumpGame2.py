@@ -40,3 +40,32 @@ x = [
 ]
 x[:] = zip(*x[::-1])
 print(x)
+
+
+def pow1(x, n):
+    if n == 0:
+        return 1
+    if n < 0:
+        return 1/pow1(x, -n)
+    if n & 1:
+        return x * pow1(x*x, n >> 1)
+    else:
+        return pow1(x*x, n >> 1)
+
+
+print(pow1(2, 10), pow(2, 10))
+
+
+
+# Leetcode 53: max sub array problem, Kadane algorithm
+def maxSubArray(nums):
+    max_sum, max_end = nums[0], nums[0]
+    for i in range(len(nums)):
+        max_end = max(max_end + nums[i], nums[i])
+        max_sum = max(max_sum, max_end)
+        print('max_end:{},     max_sum:{}'.format(max_end, max_sum))
+    return max_sum
+
+
+input = [-2,-1,-3,-4,-1,-2,-1,-5,-4]
+print(maxSubArray(input))

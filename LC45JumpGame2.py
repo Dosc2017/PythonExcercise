@@ -10,13 +10,10 @@ class Solution:
             current_farthest = max(current_farthest, i + nums[i])
             if current_farthest >= len(nums) - 1:
                 steps += 1
-
                 return steps
             if i == current_end:
                 current_end = current_farthest
                 steps += 1
-
-
 
         return steps
 
@@ -56,7 +53,6 @@ def pow1(x, n):
 print(pow1(2, 10), pow(2, 10))
 
 
-
 # Leetcode 53: max sub array problem, Kadane algorithm
 def maxSubArray(nums):
     max_sum, max_end = nums[0], nums[0]
@@ -68,4 +64,23 @@ def maxSubArray(nums):
 
 
 input = [-2,-1,-3,-4,-1,-2,-1,-5,-4]
-print(maxSubArray(input))
+
+s = 'wa'
+
+
+def merge_interval(intervals):
+    """
+    Leetcode 56: Merge intervals
+    :param intervals: List[int]
+    :return:
+    """
+    res = []
+    for i in sorted(intervals, key= lambda x: x[0]):
+        if res and res[-1][-1] >= i[0]:
+            res[-1][-1] = max(i[-1], res[-1][-1])
+        else:
+            res.append(i)
+
+    return res
+
+
